@@ -1,6 +1,7 @@
 # Drum-Kit
 Techs used- HTML, CSS, JAVASCRIPT
-framework- BOOTSTRAP
+
+Framework- BOOTSTRAP
 
 On pressing the key written or clicking on the drum, different sound gets played. 
 
